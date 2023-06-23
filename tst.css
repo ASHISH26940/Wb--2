@@ -1,0 +1,239 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Irish Grover', cursive;
+    border: 0;
+    overflow:hidden;
+}
+
+.rec-1{
+    background-color: white;
+    width:100vw;
+    height:100vh;
+    position:absolute;
+}
+
+.img-1{
+    border-radius: 37px;
+    border-width: 1px;
+    width: 325.18px;
+    height: 285.31px;
+    position: absolute;
+    transform-origin: 0 0;
+    transform: rotate(5deg) scale(1, 1);
+    bottom: 57%;
+    left: 80%;
+}
+
+.txt-5{
+    color: #6c8084;
+    text-align: left;
+    font: 400 34px "Irish Grover", sans-serif;
+    position: relative;
+    width: 381px;
+    height: 61px;
+    bottom: 58%;
+    left: 88%;
+}
+.rec-2{
+    position:relative;
+    margin: -12%  ;
+    top:350px;
+    background: linear-gradient(to left, #839c9d, #839c9d);
+    border-radius: 99px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 1px;
+    width: 517.03px;
+    height: 786.79px;
+    position: relative;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    transform-origin: 0 0;
+    transform: rotate(-5deg) scale(1, 1);
+}
+.bx-1{
+    bottom: 30%;
+    left: 43%;
+    background: #f6f6f6;
+    border-radius: 30px;
+    width: 367px;
+    height: 44px;
+    position: relative;
+}
+.txt-1{
+    color: #839C9D;
+    text-align: left;
+    font: 400 34px "Irish Grover", sans-serif;
+    position: relative;
+    width: 300px;
+    height: 91px;
+    position:relative;
+    left:695px;
+    bottom:175px;
+}
+.bx-2{
+    bottom: 33%;
+    left: 43%;
+    background: #f6f6f6;
+    border-radius: 30px;
+    width: 367px;
+    height: 44px;
+    position: relative;
+}
+.bx-3{
+    bottom: 36%;
+    left: 43%;
+    background: #f6f6f6;
+    border-radius: 30px;
+    width: 367px;
+    height: 44px;
+    position: relative;
+}
+
+.txt-2{
+    left: 42%;
+    bottom: 46%;
+    color: #839c9d;
+    text-align: left;
+    font: 400 20px "Irish Grover", sans-serif;
+    position: relative;
+    width: 250px;
+    height: 37px;
+}
+
+.txt-3{
+    color: #839c9d;
+    text-align: left;
+    font: 400 24px "Irish Grover", sans-serif;
+    position: relative;
+    width: 250px;
+    height: 58px;
+    left: 61%;
+    bottom: 51.5%;
+}
+
+.or{
+    color: #afb2b5;
+    text-align: left;
+    font: 400 24px "Irish Grover", sans-serif;
+    position: absolute;
+    left: 54%;
+    bottom: 17%;
+    width: 51px;
+    height: 42px;
+}
+.line-1{
+    border-style: dashed;
+    border-color: #afb2b5;
+    border-width: 1px 0 0 0;
+    width: 34px;
+    height: 0px;
+    position: absolute;
+    left: 50%;
+    bottom: 21%;
+}
+.line-2{
+    border-style: dashed;
+    border-color: #afb2b5;
+    border-width: 1px 0 0 0;
+    width: 34px;
+    height: 0px;
+    position: absolute;
+    left: 58%;
+    bottom: 21%;
+}
+.img-3{
+    border-radius: 20px;
+    width: 48px;
+    height: 40px;
+    left: 53.7%;
+    bottom: 49%;
+    position: relative;
+}
+.txt-4{
+    color: #839c9d;
+    text-align: left;
+    font: 400 20px "Irish Grover", sans-serif;
+    position: relative;
+    width: 553px;
+    height: 74px;
+    left: 49.5%;
+    bottom: 49%;
+}
+
+.txt-6{
+    color: #ffffff;
+    text-align: left;
+    font: 400 34px "Irish Grover", sans-serif;
+    position: absolute;
+    width: 436px;
+    height: 189px;
+    left:2%;
+}
+
+.img-4{
+    color: #839c9d;
+    text-align: left;
+    font: 400 34px "Irish Grover", sans-serif;
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    left: 89%;
+    bottom: -4%;
+}
+
+.txt-7{
+    color: #839c9d;
+    text-align: left;
+    font: 400 24px "Irish Grover", sans-serif;
+    position: relative;
+    width: 262px;
+    height: 74px;
+    bottom: 45%;
+    left: 88%;
+}
+
+.user{
+    display: flex;
+    width: 112px;
+    height: 30px;
+    flex-direction: column;
+    flex-shrink: 0;
+    position:relative;
+    bottom:37%;
+    left:45%;
+    color:#BDC0C3;
+}
+.pass{
+    display: flex;
+    width: 117px;
+    height: 27px;
+    flex-direction: column;
+    flex-shrink: 0;
+bottom:40%;
+left:45%;
+position:relative;
+color:#BDC0C3;
+}
+
+.name{
+    display: flex;
+    width: 112px;
+    height: 30px;
+    flex-direction: column;
+    flex-shrink: 0;
+    position:relative;
+    bottom:35%;
+    padding:0;
+    left:45%;
+    color:#BDC0C3;;
+}
+
+.img-5{
+    width: 65px;
+    height: 48.802px;
+    flex-shrink: 0;
+position:relative;
+bottom:46%;
+left:63%;
+}
